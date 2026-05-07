@@ -1,51 +1,39 @@
-<h1 align="center"><b>¡Hola Mundo!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
 
-## 💫 Sobre mí:
-Soy un desarrollador apasionado por la tecnología y siempre en búsqueda de nuevos retos. 🚀 Me especializo en el desarrollo de aplicaciones web con Python y Django, pero también estoy explorando otras áreas como bases de datos, cloud computing y gestión de proyectos.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DCC4D9&width=435&separator=%3C&lines=Hola%2C+soy+Matias+Benavides+;)%3CAnalista+Programador" alt="Typing SVG" /></a>
 
-- 🌱 Actualmente estoy aprendiendo más sobre AWS y trabajando en proyectos que integran Django REST Framework y MySQL.
-- 🛠️ Tengo experiencia trabajando con Python, JavaScript, Java, y bases de datos como MongoDB y MySQL.
-- 🔍 Me gusta resolver problemas con creatividad y encontrar formas de optimizar procesos tecnológicos.
-- 📫 Contáctame en mi <a href="mailto:matias.benavides.rojas@gmail.com">correo electronico</a><br>
-- 😄 Búscame en: <a href="https://www.linkedin.com/in/matias-benavides-rojas-024082156/">Linkedin</a><br><br><br>
+
+Hola!
+
+Soy Matias, analista programador enfocado en backend. Mi trabajo se centra en el equilibrio entre la **robustez de la arquitectura y la escalabilidad**, asegurando que cada sistema sea tan eficiente por dentro como funcional por fuera.
+
 
 
 
 ## Herramientas Favoritas
+[![My Skills](https://skillicons.dev/icons?i=py,js,jquery,bootstrap,html,css,sass,django,flask,firebase,mongodb,mysql,mint,git,github,notion,obsidian)](https://skillicons.dev)
 
-<h4> Lenguajes y Tecnologías </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+
+
+### Próximos Retos
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,figma,tailwind)](https://skillicons.dev)
+
+
+#### Github Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=matibenavides&theme=nord)](https://git.io/streak-stats)
+
   
-</span>
 
-<span>
-</br>
-</br>
-  
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-  ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+#### Contáctame 
 
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<p>
+  <a href="mailto:matias.benavides.rojas@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+  </a>
+  <a href="https://www.linkedin.com/in/matias-benavides-rojas-024082156">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+  </a>
+</p>
 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-</span>
-
-
-## 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=matibenavides&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/matibenavides)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matibenavides&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
