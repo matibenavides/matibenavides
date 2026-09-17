@@ -4,7 +4,7 @@
 
 ¡Hola!
 
-Soy Matías, Desarrolador Full Stack. Mi trabajo se centra en el equilibrio entre la robustez de la arquitectura, la consistencia de los datos y la usabilidad del sistema.
+Soy Matías, Desarrollador Full Stack. Mi trabajo se centra en el equilibrio entre la robustez de la arquitectura, la consistencia de los datos y la usabilidad del sistema.
 
 Disfruto construir software a medida para resolver problemas reales, cuidando tanto la solidez de las bases de datos como la fluidez de las interfaces. Más allá del código, me apasiona entender a fondo los procesos operativos detrás de cada proyecto para diseñar soluciones limpias, mantenibles y bien documentadas.
 
