@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DCC4D9&width=450&separator=%3C&lines=Hola%2C+soy+Matias+Benavides+;)%3CDesarrollador+Backend+%2F+Full+Stack%3CTS+%C2%B7+Next.js+%C2%B7+Postgres+%C2%B7+Python" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DCC4D9&width=450&separator=%3C&lines=Hola%2C+soy+Matias+Benavides+;)%3CDesarrollador+Full+Stack" alt="Typing SVG" /></a>
 
 ¡Hola!
 
@@ -10,7 +10,7 @@ Disfruto construir software a medida para resolver problemas reales, cuidando ta
 
 ---
 
-### Stack Principal & Frontend
+### Stack Principal • Frontend
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,postgres,tailwind,bootstrap" />
@@ -20,10 +20,10 @@ Disfruto construir software a medida para resolver problemas reales, cuidando ta
   </a>
 </p>
 
-### Backend, Datos & DevOps
+### Backend, Datos • DevOps
 [![Backend y Datos](https://skillicons.dev/icons?i=py,django,mysql,redis,docker,git,github)](https://skillicons.dev)
 
-### Productividad & Documentación
+### Productividad • Documentación
 [![Productividad](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev)
 
 ---
